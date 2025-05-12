@@ -1,4 +1,7 @@
-## Hi there 👋
+  👋Hi! I am Fency! Welcome to my github.
+
+  
+ hope you find projects and code here that inspire and help you in your own journey!
 
 <!--
 **FencyJay/FencyJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
